@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="encryptClientForBrowserApp-1.1.jnlp">
+  <information>
+    <title>Sample JavaFX Application</title>
+    <vendor>gostroy@gmail.com</vendor>
+    <description>Sample JavaFX Application.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.7+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="encryptClientForBrowserApp-1.1-jfx.jar" size="3316" download="null" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="ua.org.gostroy.Main"  name="encryptClientForBrowserApp-1.1" />
+  <update check="background"/>
+</jnlp>
